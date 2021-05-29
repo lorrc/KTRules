@@ -4085,25 +4085,25 @@ local common = import 'common.libsonnet';
   {
     "Id": "EPT",
     "Cost": 0,
-    "NameEn": "Chainsword",
-    "NameFr": "Epée tronçonneuse",
-    "NameDe": "Kettenschwert",
+    "NameEn": " Astartes Chainsword",
+    "NameFr": "Epée tronçonneuse Astartes",
+    "NameDe": "Astartes Kettenschwert",
     "DescriptionEn": "Each time the bearer fights, i can make 1 additional attack with this weapon",
     "DescriptionFr": "Le porteur peut effectuer une attaque supplémentaire avec cette arme chaque fois qu'il combat.",
     "DescriptionDe": "",
     "WeaponProfiles": [
       {
         "Id": "EPT",
-        "NameEn": "Chainsword",
-        "NameFr": "Epée tronçonneuse",
-        "NameDe": "Kettenschwert",
+        "NameEn": "Astartes Chainsword",
+        "NameFr": "Epée tronçonneuse Astartes",
+        "NameDe": " Astartes Kettenschwert",
         "DescriptionEn": "Each time the bearer fights, it can make 1 additional attack with this weapon.",
         "DescriptionFr": "Le porteur peut effectuer une attaque supplémentaire avec cette arme chaque fois qu'il combat.",
         "DescriptionDe": "Jedes Mal, wenn der Träger kämpft, kann er mit dieser Waffe eine zusätzliche Attacke durchführen.",
         "Range": 0,
         "ShotNumber": "0",
         "Strength": "U",
-        "ArmourPenetration": "0",
+        "ArmourPenetration": "-1",
         "Damages": "1",
         "WeaponTypeId": "M"
       }

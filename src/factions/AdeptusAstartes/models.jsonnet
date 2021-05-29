@@ -330,6 +330,139 @@ local utils = import '../../utils.libsonnet';
     ]
   },
   {
+    "Id": "AAAI",
+    "NameEn": "Assault Intercessor",
+    "NameFr": " Assault Intercessor",
+    "NameDe": " Assault Intercessor",
+    "KeywordsEn": "IMPERIUM, INFANTRY, PRIMARIS, INTERCESSOR",
+    "KeywordsFr": "IMPERIUM, INFANTERIE, PRIMARIS, INTERCESSOR",
+    "KeywordsDe": "IMPERIUM, INFANTERIE, PRIMARIS, INTERCESSOR",
+    "ModelProfiles": [
+      {
+        "Id": "AAAI1",
+        "Movement": 6,
+        "WeaponSkill": 3,
+        "BallisticSkill": 3,
+        "Strength": 4,
+        "Toughness": 4,
+        "Wounds": 2,
+        "Attacks": "2",
+        "Leadership": 7,
+        "Save": 3,
+        "MaximumNumber": 0,
+        "Cost": 15,
+        "NameEn": "Assault Intercessor",
+        "NameFr": "Assault Intercessor",
+        "NameDe": "Assault Intercessor",
+        "IsCommander": false,
+        "NumberOfKnownPsychics": 0,
+        "NumberOfPsychicsManifestationPerRound": 0,
+        "NumberOfPsychicsDenialPerRound": 0,
+        "WarGearOptions": [],
+        "Specialists": [
+          {
+            "SpecialistId": "CB"
+          },
+          {
+            "SpecialistId": "CO"
+          },
+          {
+            "SpecialistId": "M"
+          },
+          {
+            "SpecialistId": "SN"
+          },
+          {
+            "SpecialistId": "V"
+          }
+        ],
+        "ModelProfileWeapons": [],
+        "CostOverrides": [],
+        "LevelCosts": []
+      },
+      {
+        "Id": "AAAI2",
+        "Movement": 6,
+        "WeaponSkill": 3,
+        "BallisticSkill": 3,
+        "Strength": 4,
+        "Toughness": 4,
+        "Wounds": 2,
+        "Attacks": "3",
+        "Leadership": 8,
+        "Save": 3,
+        "MaximumNumber": 1,
+        "Cost": 16,
+        "NameEn": "Assault Intercessor Sergeant",
+        "NameFr": "Assault Intercessor Sergeant",
+        "NameDe": "Assault Intercessor Sergeant",
+        "IsCommander": false,
+        "NumberOfKnownPsychics": 0,
+        "NumberOfPsychicsManifestationPerRound": 0,
+        "NumberOfPsychicsDenialPerRound": 0,
+        "WarGearOptions": [
+          {
+            "Id": "14",
+            "MaximumPerTeam": 0,
+            "Operation": "EPE|EPT|THA|GEN",
+            "Exclusion": "AAAI2"
+          },
+          {
+            "Id": "243",
+            "MaximumPerTeam": 0,
+            "Operation": "FBO:EPE|EPT|LFL|(LFL&EPT)|(LFL&THA)|(LFL&GEN)|(LFL&EPE)",
+            "Exclusion": "AAAI2"
+          }
+        ],
+        "Specialists": [
+          {
+            "SpecialistId": "CB"
+          },
+          {
+            "SpecialistId": "CO"
+          },
+          {
+            "SpecialistId": "L"
+          },
+          {
+            "SpecialistId": "M"
+          },
+          {
+            "SpecialistId": "SN"
+          },
+          {
+            "SpecialistId": "V"
+          }
+        ],
+        "ModelProfileWeapons": [],
+        "CostOverrides": [],
+        "LevelCosts": []
+      }
+    ],
+    "ModelWeapons": [
+      {
+        "WeaponId": "FBO"
+      },
+      {
+        "WeaponId": "GF"
+      },
+      {
+        "WeaponId": "GK"
+      },
+      {
+        "WeaponId": "PB"
+      }
+    ],
+    "WarGearOptions": [
+      {
+        "Id": "12",
+        "MaximumPerTeam": 0,
+        "Operation": "FBO:FBA|FBS",
+        "Exclusion": null
+      }
+    ]
+  },
+  {
     "Id": "AAINC",
     "NameEn": "Incursor",
     "NameFr": "Incursor",

@@ -116,7 +116,7 @@
     "NameDe": "Crux Terminatus",
     "DescriptionEn": "This model has a 5+ invulnerable save.",
     "DescriptionFr": "Cette figurine a une sauvegarde invulnérable de 5+",
-    "DescriptionDe": "Dieses Modell hat einen Rettungswurf von 5+.",
+    "DescriptionDe": "Dieses Modell hat einen unverwundbarer Rettungswurf von 5+.",
     "Details": []
   },
   {
@@ -126,9 +126,9 @@
     "NameEn": "Crux Terminatus or Storm Shield",
     "NameFr": "Crux Terminatus ou Bouclier Storm",
     "NameDe": "Crux Terminatus oder Sturmschild",
-    "DescriptionEn": "This model has a 5+ invulnerable save. If it is armed with a storm shield, it instead has a 3+ invulnerable save.",
-    "DescriptionFr": "Cette figurine a une sauvegarde invulnérable de 5+. Si elle est équipée d'un Bouclier Storm, elle bénéficie d'une sauvegarde invulnérable de 3+",
-    "DescriptionDe": "Dieses Modell hat einen Rettungswurf von 5+.",
+    "DescriptionEn": "This model has a 5+ invulnerable save. If it is armed with a storm shield, it instead has a 4+ invulnerable save and adds 1 to its non-invulnerable armour save.",
+    "DescriptionFr": "Cette figurine a une sauvegarde invulnérable de 5+. Si elle est équipée d'un Bouclier Storm, elle bénéficie d'une sauvegarde invulnérable de 4+ et ajoute 1 à sa sauvegarde normale",
+    "DescriptionDe": "Dieses Modell hat einen unverwundbarer Rettungswurf von 5+. Wenn es mit einem Sturmschild ausgerüstet ist, hat es stattdessen einen unverwundbarer Rettungswurf von 4+ und addiert 1 zu seinem normalen Rettungswurf.",
     "Details": []
   },
   {
@@ -150,7 +150,7 @@
     "NameEn": "Grav-chute",
     "NameFr": "Grav-chute",
     "NameDe": "Gravschirm",
-    "DescriptionEn": "This model never suffersfalling damage, and never falls on another model. If it would, instead place this model as close as possible to the point where it would have landed. This can bring it within 1\" of an enemy model.",
+    "DescriptionEn": "This model never suffers falling damage, and never falls on another model. If it would, instead place this model as close as possible to the point where it would have landed. This can bring it within 1\" of an enemy model.",
     "DescriptionFr": "Cette figurine ne subit jamais de dégâts de chute,  et ne chute jamais sur une autre figurine. Si cela devait arriver, à la place, posez la figurine aussi près que possible du point où elle aurait dû atterrir. Cela peut l'amener à 1\" d'une figurine ennemie",
     "DescriptionDe": "Dieses Modell erleidet niemals Sturzschaden und stürzt niemals auf ein anderes Modell. Wenn es dies tun würde, platziere dieses Modell stattdessen so dicht wie möglich bei dem Punkt, an dem es gelandet wäre. Dadurch kann es innerhalb von 1'' um ein feindliches Modell landen.",
     "Details": []
@@ -162,7 +162,7 @@
     "NameEn": "Grav-chute",
     "NameFr": "Grav-chute",
     "NameDe": "Gravschirm",
-    "DescriptionEn": "This model never suffersfalling damage, and never falls on another model. If it would, instead place this model as close as possible to the point where it would have landed. This can bring it within 1\" of an enemy model.",
+    "DescriptionEn": "This model never suffers falling damage, and never falls on another model. If it would, instead place this model as close as possible to the point where it would have landed. This can bring it within 1\" of an enemy model.",
     "DescriptionFr": "Cette figurine ne subit jamais de dégâts de chute,  et ne chute jamais sur une autre figurine. Si cela devait arriver, à la place, posez la figurine aussi près que possible du point où elle aurait dû atterrir. Cela peut l'amener à 1\" d'une figurine ennemie",
     "DescriptionDe": "Dieses Modell erleidet niemals Sturzschaden und stürzt niemals auf ein anderes Modell. Wenn es dies tun würde, platziere dieses Modell stattdessen so dicht wie möglich bei dem Punkt, an dem es gelandet wäre. Dadurch kann es innerhalb von 1'' um ein feindliches Modell landen.",
     "Details": []
@@ -176,7 +176,7 @@
     "NameDe": "Stählerner Stern",
     "DescriptionEn": "This model has a 4+ invulnerable save.",
     "DescriptionFr": "Cette figurine a une sauvegarde invulnérable de 4+.",
-    "DescriptionDe": "Dieses Modell hat einen Rettungswurf von 4+.",
+    "DescriptionDe": "Dieses Modell hat einen unverwundbarer Rettungswurf von 4+.",
     "Details": []
   },
   {
@@ -188,7 +188,7 @@
     "NameDe": "Stählerner Stern",
     "DescriptionEn": "This model has a 4+ invulnerable save.",
     "DescriptionFr": "Cette figurine a une sauvegarde invulnérable de 4+.",
-    "DescriptionDe": "Dieses Modell hat einen Rettungswurf von 4+.",
+    "DescriptionDe": "Dieses Modell hat einen unverwundbarer Rettungswurf von 4+.",
     "Details": []
   },
   {
@@ -198,9 +198,9 @@
     "NameEn": "Iron Halo or Storm Shield",
     "NameFr": "Halo de Fer ou Bouclier Storm",
     "NameDe": "Stählerner Stern oder Sturmschild",
-    "DescriptionEn": "This model has a 4+ invulnerable save. If it is armed with a storm shield, it instead has a 3+ invulnerable save",
-    "DescriptionFr": "Cette figurine a une sauvegarde invulnérable de 4+. Si elle est équipée d'un Bouclier Storm, elle bénéficie d'une sauvegarde invulnérable de 3+",
-    "DescriptionDe": "Dieses Modell hat einen Rettungswurf von 4+. Wenn es mit einem Sturmschild ausgerüstet ist, hat es stattdessen einen Rettungswurf von 3+.",
+    "DescriptionEn": "This model has a 4+ invulnerable save. If it is armed with a storm shield, it has a 4+ invulnerable save and adds 1 to its non-invulnerable armour save",
+    "DescriptionFr": "Cette figurine a une sauvegarde invulnérable de 4+. Si elle est équipée d'un Bouclier Storm, elle bénéficie d'une sauvegarde invulnérable de 4+ et ajoute 1 à sa sauvegarde normale",
+    "DescriptionDe": "Dieses Modell hat einen unverwundbarer Rettungswurf von 4+. Wenn es mit einem Sturmschild ausgerüstet ist, hat es stattdessen einen unverwundbarer Rettungswurf von 4+ und addiert 1 zu seinem normalen Rettungswurf.",
     "Details": []
   },
   {
